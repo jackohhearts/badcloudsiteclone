@@ -10,6 +10,8 @@ body {
 
 .navbar-nav {
     padding-right: 22em;
+    margin-left: 8em;
+    justify-content: center;
 }
 
 #logo {
@@ -26,7 +28,12 @@ body {
     margin-right: 1.5em;
     font-weight: 700;
     font-size: .7em;
+    margin-left: 2em;
     ;
+}
+
+.nav-link {
+    justify-content
 }
 
 #headingGroup h3 {
